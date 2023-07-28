@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<h5> I'm independant. I've learn Web, Mobile and Backend, I try to touch everything. I prefer the web for now.</h5>
 <!--
 **julorapido/julorapido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h5 align="left"> I'm independant. I've learn Web, Mobile and Backend, I try to touch everything. I prefer the web for now.</h5>
 
 <div align="left">
   <img height="80" src="https://avatars.githubusercontent.com/u/86060986?s=400&u=b3134516b7d92a34763cc468eeb88aec08f74340&v=4"  />
