@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">Contact Me  💌</h2>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
@@ -31,25 +30,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h2 align="left">Visitors 💡</h2>
 
-###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-###
-
 <h6 align="left">I'm Jules Sainthorant from 🇫🇷 :<br><br>⚡ I develop games and web apps<br>📚 self-thaught programmer<br>💎 https://nitrochat.fr/</h6>
 
-###
 
 <h2 align="left">Languages</h2>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -65,11 +55,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
 
 <h2 align="left">Frontend</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -91,8 +78,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">Backend</h2>
 
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
@@ -106,8 +91,6 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">Others</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
