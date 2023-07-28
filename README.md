@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/86060986?s=400&u=b3134516b7d92a34763cc468eeb88aec08f74340&v=4"  />
 </div>
 
 ###
 
-<h1 align="center">Contact Me 💌</h1>
+<h4 align="left">Contact Me 💌</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="twitter logo"  />
@@ -34,17 +35,19 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Visitors 💡</h1>
+<br clear="both">
+
+<h4 align="left">Visitors 💡</h4>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<br clear="both">
+
+<h4 align="left">hey there 👋</h4>
 
 ###
 
@@ -137,16 +140,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=julorapido&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=20&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
 
 <h3 align="left"></h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/julorapido/julorapido/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -162,5 +160,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/julorapido/julorapido/output/snake.svg" alt="Snake animation" />
 
 ###
