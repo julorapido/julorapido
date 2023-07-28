@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">Visitors 💡</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
+</div>
 
 <h2 align="left">👩‍💻  About Me</h2>
 
@@ -111,21 +114,6 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -145,30 +133,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julorapido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julorapido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=julorapido&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=25&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=julorapido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julorapido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=julorapido&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=25&order=3" height="140" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <img align="left" src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
 
