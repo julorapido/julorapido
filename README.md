@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/julorapido/" target="blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/home" target="blank">
+  <a href="https://twitter.com/youradrien3003" target="blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="24" alt="twitter logo"  />
   </a>
   <a href="https://www.linkedin.com/in/julorapido/" target="blank">
