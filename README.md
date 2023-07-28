@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
 </div>
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 <h6 align="left">I'm Jules Sainthorant from 🇫🇷 :<br><br>⚡ I develop games and web apps<br>📚 self-thaught programmer<br>💎 https://nitrochat.fr/</h6>
 
