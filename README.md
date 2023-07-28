@@ -77,7 +77,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
 
 <h2 align="left">Backend</h2>
 
@@ -91,7 +90,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-###
 
 <h2 align="left">Others</h2>
 
