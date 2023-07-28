@@ -166,3 +166,11 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/julorapido/julorapido/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julorapido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julorapido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=julorapido&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=25&order=3" height="125" alt="streak graph"  />
+</div>
+
+###
