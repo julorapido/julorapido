@@ -120,17 +120,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/julorapido/julorapido/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julorapido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
