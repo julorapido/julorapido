@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Visitors 💡</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
 </div>
 
