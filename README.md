@@ -129,6 +129,3 @@ Here are some ideas to get you started:
 </div>
 
 
-<img align="left" src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
-
-###
