@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<h5> I'm independant. I've learn Web, Mobile and Backend, I try to touch everything. I prefer the web for now.</h5>
 <!--
 **julorapido/julorapido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-<h6 align="left">I'm Jules Sainthorant from 🇫🇷 :<br><br>⚡ I develop games and web apps<br>📚 self-thaught programmer<br>💎 https://nitrochat.fr/</h6>
+<h6 align="left">I'm Jules Sainthorant from 🇫🇷 :<br><br>⚡ I develop games and web apps<br>📚 self-taught programmer<br>💎 https://nitrochat.fr/</h6>
 
 
 <h2 align="left">Languages</h2>
