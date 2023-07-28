@@ -15,47 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/86060986?s=400&u=b3134516b7d92a34763cc468eeb88aec08f74340&v=4"  />
-</div>
-
-###
-
-<h4 align="left">Contact Me 💌</h4>
+<p align="left">hey there 👋</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  <img height="80" src="https://avatars.githubusercontent.com/u/86060986?s=400&u=b3134516b7d92a34763cc468eeb88aec08f74340&v=4"  />
+</div>
+
+###
+
+<h2 align="left">Contact Me  💌</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Visitors 💡</h4>
+<h2 align="left">Visitors 💡</h2>
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<br clear="both">
-
-<h4 align="left">hey there 👋</h4>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Jules Sainthorant from 🇫🇷<br><br>⚡ I develop games and web apps<br>📚 always learning<br>💎 https://nitrochat.fr/</p>
+<h6 align="left">I'm Jules Sainthorant from 🇫🇷 :<br><br>⚡ I develop games and web apps<br>📚 self-thaught programmer<br>💎 https://nitrochat.fr/</h6>
 
 ###
 
@@ -149,6 +143,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -172,5 +172,27 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julorapido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2" height="125" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=julorapido&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=25&order=3" height="125" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
 
 ###
