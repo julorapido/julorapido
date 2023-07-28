@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">hey there 👋</p>
-
-###
-
 <div align="left">
   <img height="80" src="https://avatars.githubusercontent.com/u/86060986?s=400&u=b3134516b7d92a34763cc468eeb88aec08f74340&v=4"  />
 </div>
-
-###
 
 <h2 align="left">Contact Me  💌</h2>
 
