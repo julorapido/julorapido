@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4 align="left">I'm a software developper passionate about computer science, game developpement and web applications. I made my own social network and created mobile video games </h4>
+<h5 align="left">I'm a software developper passionate about computer science, game developpement and web applications. I made my own social network and created mobile video games </h5>
 
 <div align="left">
   <img height="50" src="https://avatars.githubusercontent.com/u/86060986?s=400&u=b3134516b7d92a34763cc468eeb88aec08f74340&v=4"  />
