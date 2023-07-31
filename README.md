@@ -33,6 +33,7 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
+  <img width="32" height="24"  src=" https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/150px-Logo_OpenClassrooms.png"  />
 <h6 align="left">I'm Jules Sainthorant from 🇫🇷 :<br> <br>I left college to learn computer science alone, former student from OpenClassrooms <br>⚡ I develop games and web apps<br>📚 self-taught programmer<br>💎 https://nitrochat.fr/</h6>
 
 
