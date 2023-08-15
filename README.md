@@ -60,8 +60,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=sass" height="32" alt="sass logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="32" alt="graphql logo"  />
-  <img width="10" />
+
   <img src="https://skillicons.dev/icons?i=redux" height="32" alt="redux logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vite" height="32" alt="vite logo"  />
@@ -75,6 +74,8 @@
 <h2 align="left">Backend</h2>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=graphql" height="32" alt="graphql logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
