@@ -21,12 +21,6 @@
 </div>
 
 
-<h2 align="left">Visitors 💡</h2>
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/julorapido/count.svg?"  />
-</div>
-
 <h2 align="left">👨‍💻 About Me</h2>
 <h6 align="left">I'm Jules Sainthorant from 🇫🇷 <br> I left college to learn computer science by my-self, former student from OpenClassrooms </h6>
 <div align="left" width="max-content">
@@ -104,11 +98,4 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="32" alt="npm logo"  />
 </div>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julorapido&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julorapido&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=julorapido&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=25&order=3" height="140" alt="streak graph"  />
-</div>
 
