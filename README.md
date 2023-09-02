@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<h5 align="left">software developper => computer science </h5>
 
 <h2 align="left">Contact Me  💌</h2>
 
