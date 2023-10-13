@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h2 align="left">Contact Me  💌</h2>
+<h2 align="left">Contact</h2>
 
 
 <div align="left">
