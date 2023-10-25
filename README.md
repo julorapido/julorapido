@@ -1,18 +1,6 @@
 ### Hi there 👋
 
 
-<h2 align="left">Contact</h2>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/julorapido/" target="blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/youradrien3003" target="blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="24" alt="twitter logo"  />
-  </a>
-</div>
-
 
 <h2 align="left">👨‍💻 About Me</h2>
 <h6 align="left">I'm Jules Sainthorant from 🇫🇷 <br> I left college to learn computer science by my-self, former student from OpenClassrooms </h6>
