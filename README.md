@@ -3,7 +3,7 @@
 
 
 <h2 align="left">👨‍💻 About Me</h2>
-<h6 align="left">I'm Jules Sainthorant from 🇫🇷 <br> I left college to learn computer science by my-self, former student from OpenClassrooms </h6>
+<h6 align="left">Jules Sainthorant from 🇫🇷 <br> I left college to learn computer science by my-self, former student from OpenClassrooms </h6>
 <div align="left" width="max-content">
   <img width="32" height="32"  src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/150px-Logo_OpenClassrooms.png"  />
 <div align="left">
