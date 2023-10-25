@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <h2 align="left">👨‍💻 About Me</h2>
 <h6 align="left">Jules Sainthorant from 🇫🇷 <br> I left college to learn computer science by my-self, former student from OpenClassrooms </h6>
